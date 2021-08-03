@@ -7,3 +7,5 @@ This repository exists to discuss and document the design of a new linter for th
 Follows is a list of items that have been generally agreed upon.
 
 - [Terminology](./terminology.md)
+- [Must haves](./must-haves.md)
+- [Should haves](./should-haves.md)
