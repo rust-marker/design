@@ -9,3 +9,5 @@ Follows is a list of items that have been generally agreed upon.
 - [Terminology](./terminology.md)
 - [Must haves](./must-haves.md)
 - [Should haves](./should-haves.md)
+- [Could haves](./could-haves.md)
+- [Won't haves](./wont-haves.md)

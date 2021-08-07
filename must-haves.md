@@ -10,3 +10,4 @@ Follows is a list of items that **must** be present in the minimum viable produc
 - The lint author must be able to write lints without knowing the implementation details of anything, including the stable API, rustc crates, or the standard library.
 - The lint user must be able to use the lints without knowing the implementation details of the linter.
 - All lint implementations must be able to work with a single driver which is provided by the linter.
+- Lints must be able to be forbid, deny, warn, and allow-by-default.
