@@ -10,3 +10,4 @@ Follows is a list of items that **should** be present in the minimum viable prod
 - Lint groups should exist and be trivial to create.
 - It should be possible to deprecate a lint.
 - Lints should be able to be documented. The form of documentation is not specified.
+- Lints should be versioned. This will be in the form of using whatever functionality the registry provides, whether that is crates.io or some other registry.
