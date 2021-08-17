@@ -11,3 +11,4 @@ Follows is a list of items that have been generally agreed upon.
 - [Should haves](./should-haves.md)
 - [Could haves](./could-haves.md)
 - [Won't haves](./wont-haves.md)
+- [Where lints live](./lints-lives.md)
