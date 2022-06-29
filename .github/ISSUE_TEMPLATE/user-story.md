@@ -17,4 +17,4 @@ assignees: ''
 
 ### Notes
 
-<!-- Any details that might be interesting or thoughts on what the linting logic should ideally look like -->
+<!-- Any details that might be interesting or thoughts on what the linting logic should look like -->
