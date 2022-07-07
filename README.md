@@ -2,6 +2,8 @@
 
 This repository exists to discuss and document the design of a new linter for the Rust programming language.
 
+If you have any suggestions, questions or a custom lint ideas, you're welcome to create a [new issue](https://github.com/rust-linting/design/issues/new/choose). Any kind of contribution is appreciated.
+
 ## Documents
 
 Follows is a list of items that have been generally agreed upon.
